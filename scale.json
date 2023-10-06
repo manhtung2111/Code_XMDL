@@ -1,0 +1,10 @@
+{
+        "scale_temp": 1,
+        "offset_temp": 0,
+        "scale_press": 1,
+        "offset_press": 0,
+        "scale_flow": 1,
+        "offset_flow": 0,
+        "scale_pm": 1,
+        "offset_pm": 0
+}
